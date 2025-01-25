@@ -18,8 +18,6 @@ SecureInsight is a comprehensive security tool designed for penetration testing 
   - snyk: Test code locally or monitor for vulnerabilities.
   - brakeman: Scan a Ruby on Rails application for security vulnerabilities.
 
-- **Step by Step Guide**: Provides guidance on using the tools effectively.
-
 ## Installation
 
 Clone the repository:
